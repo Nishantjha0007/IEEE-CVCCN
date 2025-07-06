@@ -48,7 +48,7 @@ Visit the live application: [https://cvccn.vercel.app](https://cvccn.vercel.app)
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
-Copyright (c) 2025 Rahul Singh
+Copyright (c) 2025 Nishant Kumar
 
 ## Contact
 For any queries or suggestions, please reach out to the project maintainer.
@@ -58,4 +58,4 @@ For any queries or suggestions, please reach out to the project maintainer.
 - Font Awesome for the icon library
 - Google Fonts for the typography
 - Animate.css for the animations
-Copyright (c) 2025 Rahul Singh
+Copyright (c) 2025 Nishant Kumar
