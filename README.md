@@ -16,7 +16,7 @@ CVCCN is a professional website showcasing research and developments in the fiel
 - PWA (Progressive Web App) support with manifest and icons
 
 ## Live Demo
-Visit the live application: [https://cvccn.vercel.app](https://cvccn.vercel.app)
+Visit the live application: [https://cvccn.vercel.app]()
 
 ## Project Structure
 - `index.html` - Main website file
